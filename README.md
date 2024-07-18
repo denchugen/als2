@@ -25,6 +25,10 @@ SH12_plot_pheatmap.R
 
 ![image](https://github.com/user-attachments/assets/b68799c7-a2aa-4bf1-a51a-89fccb9c91df)
 ![image](https://github.com/user-attachments/assets/f131d15a-afff-436f-98cc-7848d5d0ffa0)
+
+
+![image](https://github.com/user-attachments/assets/6ab7ef0b-4170-4fbd-b28e-aaa6326c3bc2)
+
 ![image](https://github.com/user-attachments/assets/53fb702d-0959-44fd-8698-13806cc49e40)
 ![image](https://github.com/user-attachments/assets/65be1216-579c-4a9d-915b-4464cb1a5f52)
 [1] "/Volumes/TOSHIBA/ALS/RAW_MOUSE/SH13_read_DMN.R"
